@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Документация TaskTracker
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Добро пожаловать в документацию системы управления задачами TaskTracker!
 
-## Commands
+## Основные разделы
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. **Руководство пользователя** - начните здесь, если вы новый пользователь
+2. **Справочник API** - для интеграций и автоматизации
+3. **Для разработчиков** - настройка среды разработки
 
-## Project layout
+## Быстрые ссылки
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Быстрый старт](user-guide/quick-start.md)
+* [Обзор API](api/overview.md)
+* [GitHub репозиторий](https://github.com/Ksenyashina/TaskTracker.git)
