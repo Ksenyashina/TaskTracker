@@ -15,8 +15,7 @@ GET /tasks/{id}
 PUT /tasks/{id}
 ## Удалить задачу
 DELETE /tasks/{id}
-**Тело запроса:**
-```json
+# **Тело запроса:**
 {
   "title": "Название",
   "assignee_id": 123
